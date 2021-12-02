@@ -1,6 +1,6 @@
-//#define DEBUG_SOCKET
-#define DEBUG_IP "192.168.2.2"
-#define DEBUG_PORT 9023
+#define DEBUG_SOCKET
+#define DEBUG_IP "192.168.255.255"
+#define DEBUG_PORT 19023
 
 #include "ps4.h"
 
